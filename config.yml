@@ -85,7 +85,7 @@ title: "友林飞心门户"
 avatar: "./images/profile.jpeg"
 name: "友林飞心"
 tagline: >-
-    🌿 灵性成长 · 心灵觉醒 · 无极之道的生活方式
+   灵性修行者，网易音乐人，专注灵性成长 · 心灵觉醒 · 无极之道的生活方式
     👉 友林飞心官网：www.ylfx.net
 
 # -----------------------------------------------------------------------------
@@ -100,114 +100,110 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-house"
-      text: "友林飞心博客 <span class='link-button-text'>(120+ Posts)</span>"
+      text: "友林飞心博客 <span class='link-button-text'>(友林感悟系列)</span>"
       url: "https://www.ylfx.net"
       alt: "友林飞心博客"
       title: "友林飞心博客"
       target: "_blank"
 
   # → uses GithubRepoStarsCountPlugin
+  #友林感悟系列
   - link:
-      icon: "fa-brands fa-swift"
-      text: "ZMarkupParser <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMarkupParser']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMarkupParser"
-      alt: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
-      title: "ZMarkupParser is a pure-Swift library that helps you to convert HTML strings to NSAttributedString with customized style and tags."
+      icon: "fa-solid fa-blog"
+      text: "友林感悟系列"
+      url: "https://www.ylfx.net/archive/?category=友林感悟系列"
+      alt: "友林感悟系列"
+      title: "友林感悟系列"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-app-store-ios"
-      text: "ZReviewTender <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZReviewTender']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZReviewTender"
-      alt: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
-      title: "ZReviewTender is a tool for fetching app reviews from the App Store and Google Play Console and integrating them into your workflow."
+      icon: "fa-brands fa-youtube"
+      text: "YouTube频道"
+      url: "https://www.youtube.com/@ylfx"
+      alt: "友林飞心YouTube频道"
+      title: "友林飞心YouTube频道"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-markdown"
-      text: "ZMediumToMarkdown <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/ZMediumToMarkdown']}} Stars)</span>"
-      url: "https://github.com/ZhgChgLi/ZMediumToMarkdown"
-      alt: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
-      title: "ZMediumToMarkdown is a powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format."
+      icon: "fa-brands fa-spotify"
+      text: "Spotify音乐主页"
+      url: "https://open.spotify.com/artist/2wkKshxUVIpYZoSgM91Y3L"
+      alt: "友林飞心的Spotify音乐主页"
+      title: "友林飞心的Spotify音乐主页"
       target: "_blank"
 
   # → uses GithubRepoStarsCountPlugin + GithubLastCommitPlugin
   - link:
-      icon: "fa-brands fa-github"
-      text: "linkyee <span class='link-button-text'>({{vars.GithubRepoStarsCountPlugin['ZhgChgLi/linkyee']}} ⭐ · last update {{ vars.GithubLastCommitPlugin['ZhgChgLi/linkyee'].date }})</span>"
-      url: "https://github.com/ZhgChgLi/linkyee"
-      alt: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
-      title: "linkyee is a fully customized, open-source LinkTree alternative deployed directly on GitHub Pages."
+      icon: "fa-solid fa-music"
+      text: "YouTube音乐主页"
+      url: "https://music.youtube.com/channel/UC0sD_7Y0k-GPHWoNIXwa60w"
+      alt: "友林飞心的YouTube音乐主页"
+      title: "友林飞心的YouTube音乐主页"
       target: "_blank"
 
   # → uses RSSFeedPlugin (latest blog post). `latest: true` opts into the
   #   theme's "LATEST" badge styling.
   - link:
-      icon: "fa-solid fa-newspaper"
-      text: "{{ vars.RSSFeedPlugin['https://en.zhgchg.li/feed.xml'][0].title }}"
-      url: "{{ vars.RSSFeedPlugin['https://en.zhgchg.li/feed.xml'][0].url }}"
-      alt: "Latest blog post by ZhgChgLi"
-      title: "Latest blog post"
+      icon: "fa-solid fa-music"
+      text: "网易云音乐主页"
+      url: "https://163cn.tv/VkqC9FS"
+      alt: "友林飞心的网易云音乐主页"
+      title: "友林飞心的网易云音乐主页"
       target: "_blank"
-      latest: true
+
+  - link:
+      icon: "fa-brands fa-qq"
+      text: "QQ音乐主页"
+      url: "hhttps://c6.y.qq.com/base/fcgi-bin/u?__=TAChNyfnZX5n"
+      alt: "友林飞心的QQ音乐主页"
+      title: "友林飞心的QQ音乐主页"
+      target: "_blank"
 
   # → uses YouTubeChannelLatestVideoPlugin
   - link:
-      icon: "fa-brands fa-youtube"
-      text: "{{ vars.YouTubeChannelLatestVideoPlugin['@zhgchgli'].title }}"
-      url: "{{ vars.YouTubeChannelLatestVideoPlugin['@zhgchgli'].url }}"
-      alt: "Latest YouTube video"
-      title: "Latest YouTube video"
+      icon: "fa-brands fa-zhihu"
+      text: "知乎主页"
+      url: "https://www.zhihu.com/people/youlinfeixin"
+      alt: "友林飞心知乎主页"
+      title: "友林感悟系列（知乎主页）"
       target: "_blank"
-      latest: true
+
+  - link:
+      icon: "fa-solid fa-pen-to-square"
+      text: "小红书主页"
+      url: "fa-solid fa-pen-to-square"
+      alt: "友林飞心小红书主页"
+      title: "友林飞心小红书主页"
+      target: "_blank"
 
 # -----------------------------------------------------------------------------
 # Social media buttons
 # -----------------------------------------------------------------------------
 socials:
   - social:
-      icon: "fa-brands fa-medium"
-      url: "https://blog.zhgchg.li"
-      title: "ZhgChgLi's Medium"
-      alt: "ZhgChgLi's Medium"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-github"
-      url: "https://github.com/ZhgChgLi"
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/zhgchgli/"
-      title: "ZhgChgLi's LinkedIn"
-      alt: "ZhgChgLi's LinkedIn"
-      target: "_blank"
+      icon: "fa-brands fa-square-x-twitter"
+      url: ""
+      title: ""
+      alt: ""
+      target: ""
   - social:
       icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/zhgchgli/"
+      url: ""
       title: "Instagram"
-      alt: "ZhgChgLi's Instagram"
-      target: "_blank"
+      alt: ""
+      target: ""
   - social:
       icon: "fa-solid fa-envelope"
-      url: "mailto:zhgchgli@gmail.com"
-      title: "Email: zhgchgli@gmail.com"
-      alt: "zhgchgli@gmail.com"
+      url: "mailto:youlinfx@163.com"
+      title: "Email: youlinfx@163.com"
+      alt: "Email: youlinfx@163.co"
       target: "_blank"
 
 # -----------------------------------------------------------------------------
 # Footer (uses CountdownPlugin)
 # -----------------------------------------------------------------------------
 footer: >
-    Hi there! Follow me on Medium or GitHub, or stay connected on Instagram or LinkedIn.
-    <br>linkyee has been live for {{ vars.CountdownPlugin.linkyee_release.days }} days. 🎉
+    凡是真实的，不受任何威胁；凡是不真实的，根本不存在。上主的平安即在其中！ 🎉
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © {{ year }} <a href="https://link.zhgchg.li" target="_blank">ZhgChgLi</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © {{ year }} <a href="https://www.ylfx.net" target="_blank">友林飞心</a>. 
