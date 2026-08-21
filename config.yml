@@ -85,8 +85,8 @@ title: "友林飞心门户"
 avatar: "./images/profile.jpeg"
 name: "友林飞心"
 tagline: >-
-   灵性修行者，网易音乐人，专注灵性成长 · 心灵觉醒 · 无极之道的生活方式
-    👉 友林飞心官网：www.ylfx.net
+   灵性修行者，网易音乐人，专注灵性成长，心灵觉醒，遵循无极之道的灵性生活方式。<br>
+    👉 友林飞心网址：www.ylfx.net
 
 # -----------------------------------------------------------------------------
 # Links
@@ -100,7 +100,7 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-house"
-      text: "友林飞心博客 <span class='link-button-text'>(友林感悟系列)</span>"
+      text: "友林飞心博客"
       url: "https://www.ylfx.net"
       alt: "友林飞心博客"
       title: "友林飞心博客"
@@ -169,7 +169,7 @@ links:
   - link:
       icon: "fa-solid fa-pen-to-square"
       text: "小红书主页"
-      url: "fa-solid fa-pen-to-square"
+      url: "https://xhslink.cn/m/3yGsM3pJh1k"
       alt: "友林飞心小红书主页"
       title: "友林飞心小红书主页"
       target: "_blank"
