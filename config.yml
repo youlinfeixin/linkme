@@ -12,7 +12,7 @@
 theme: glassmorphism
 
 # HTML <html lang> attribute
-lang: "en"
+lang: "zh-CN"
 
 # Force a color scheme regardless of the visitor's system appearance:
 #   auto  — follow OS (default; the page auto-switches between light/dark)
@@ -81,12 +81,12 @@ google_analytics_id:
 # -----------------------------------------------------------------------------
 # Profile header
 # -----------------------------------------------------------------------------
-title: "ZhgChgLi's Links"
+title: "友林飞心门户"
 avatar: "./images/profile.jpeg"
-name: "@zhgchgli"
+name: "友林飞心"
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
-    Followed by {{ vars.GithubProfilePlugin['ZhgChgLi'].followers }} on GitHub across {{ vars.GithubProfilePlugin['ZhgChgLi'].repos }} public repos.
+    🌿 灵性成长 · 心灵觉醒 · 无极之道的生活方式
+    👉 友林飞心官网：www.ylfx.net
 
 # -----------------------------------------------------------------------------
 # Links
@@ -99,11 +99,11 @@ tagline: >-
 # -----------------------------------------------------------------------------
 links:
   - link:
-      icon: "fa-solid fa-rss"
-      text: "Tech Blog <span class='link-button-text'>(120+ Posts)</span>"
-      url: "https://zhgchg.li"
-      alt: "ZhgChgLi Tech & Travel Blog"
-      title: "ZhgChgLi Tech & Travel Blog"
+      icon: "fa-solid fa-house"
+      text: "友林飞心博客 <span class='link-button-text'>(120+ Posts)</span>"
+      url: "https://www.ylfx.net"
+      alt: "友林飞心博客"
+      title: "友林飞心博客"
       target: "_blank"
 
   # → uses GithubRepoStarsCountPlugin
