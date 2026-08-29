@@ -130,6 +130,14 @@ links:
       title: "友林飞心的Spotify音乐主页"
       target: "_blank"
 
+  - link:
+      icon: "fa-brands fa-apple"
+      text: "Apple音乐主页"
+      url: "https://music.apple.com/au/artist/%E5%8F%8B%E6%9E%97%E9%A3%9E%E5%BF%83/1853808906"
+      alt: "友林飞心的Apple音乐主页"
+      title: "友林飞心的Apple音乐主页"
+      target: "_blank"
+
   # → uses GithubRepoStarsCountPlugin + GithubLastCommitPlugin
   - link:
       icon: "fa-solid fa-music"
